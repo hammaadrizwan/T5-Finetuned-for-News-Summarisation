@@ -1,7 +1,7 @@
 ## Project Overview
 - **Objective**: Improve T5-Small's summarization accuracy via fine-tuning.
 - **Dataset**: CNN/DailyMail (3.0.0), 2000-sample subset.
-- **Model**: T5-Small (full fine-tuning, no LoRA).
+- **Model**: T5-Small.
 - **Accuracy Metric**: ROUGE-1, ROUGE-2, ROUGE-L scores.
 - **Environment**: Python 3.10, CPU-based.
 
